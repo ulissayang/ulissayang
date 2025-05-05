@@ -46,3 +46,15 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ulissayang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyNzQxOHFhdTBlZGg5ZXJ4eHd4NWJlMXRkajYwMnY1eW1tdzQwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
+</div>
+
+###
+
+##### 🎮 Play Game With Me
+
+<img src="https://raw.githubusercontent.com/ulissayang/ulissayang/output/snake.svg" alt="Snake animation" />
+
+###
